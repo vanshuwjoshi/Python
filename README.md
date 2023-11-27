@@ -2,7 +2,8 @@
 # Number Guessing Game
 
 Welcome to the Number Guessing Game!
-This simple Python program allows users to play a number guessing game where they specify a lower and upper bound and have a certain number of attempts to guess the correct number.
+This simple Python program allows users to play a number-guessing game where they
+specify a lower and upper bound and have a certain number of attempts to guess the correct number.
 
 ## How to Play
 
