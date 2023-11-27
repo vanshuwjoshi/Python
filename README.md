@@ -1,4 +1,3 @@
-```markdown
 # Number Guessing Game
 
 Welcome to the Number Guessing Game!
@@ -36,4 +35,3 @@ specify a lower and upper bound and have a certain number of attempts to guess t
 - Provide feedback on the number of attempts used.
 
 Feel free to customize the code according to your preferences. Good luck, and have fun playing the Number Guessing Game!
-```
